@@ -1,4 +1,1 @@
-# Assignment2、
-feature-A
-fix-B
-feature-C
+# Assignment 2
