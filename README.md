@@ -2,8 +2,8 @@
 
 ### What is it about?
 This course project is a reproduce of 
-  Baltussen, Da, Z., Lammers, S., & Martens, M. (2021). Hedging demand and market intraday momentum. Journal of Financial Economics, 142(1), 377–403. https://doi.org/10.1016/j.jfineco.2021.04.029
-
+<!--   Baltussen, Da, Z., Lammers, S., & Martens, M. (2021). Hedging demand and market intraday momentum. Journal of Financial Economics, 142(1), 377–403. https://doi.org/10.1016/j.jfineco.2021.04.029
+ -->
 ### Abstract
 Hedging short gamma exposure requires trading in the direction of price movements, thereby creating price momentum. Using intraday returns on over 60 futures on equities, bonds, commodities, and currencies between 1974 and 2020, they find strong market intraday momentum everywhere. The return during the last 30 minutes before the market close is positively predicted by the return during the rest of the day (from previous market close to the last 30 minutes). The predictive power is economically and statistically highly significant, and reverts over the next days. We provide novel evidence that links market intraday momentum to the gamma hedging demand from market participants such as market makers of options and leveraged ETFs.
 ### How to run this project
