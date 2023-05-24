@@ -19,7 +19,7 @@ For your convenience, you can directly run the "gamma_hedging_momentum.ipynb", w
 3. gamma_hedging_momentum.ipynb is for testing the NGE factors
 
 ### My contribution and improvement
-I reproduced the models in this paper, using Shanghai Stock 50 Index Exchange Traded Fund and its corresponding Exchange options, as there is no leveraged ETFs in Chinese Exchanges. 
+I reproduced the models in this paper, using Shanghai Stock Exchange 50 Index Exchange Traded Fund (SSE 50 ETF) and its corresponding Exchange options, as there is no leveraged ETFs in Chinese Exchanges. 
 ### Conclusions
 1. The phenomenon of Gamma pressure leading to the close momentum was not significant in China's SSE 50 ETF and its corresponding option markets. 
 
