@@ -23,9 +23,13 @@ For your convenience, you can directly run the "gamma_hedging_momentum.ipynb", w
 I reproduced the models in this paper, using Shanghai Stock 50 Index Exchange Traded Fund and its corresponding Exchange options, as there is no leveraged ETFs in Chinese Exchanges. 
 ### Conclusions
 1. The phenomenon of Gamma pressure leading to the close momentum was not significant in China's SS50 ETF and its corresponding option markets. 
+
 ![image](https://github.com/algo23-yifeizhou/Assignment2/assets/125112527/edbadb9c-f897-43ce-95ee-8c4684c1dc5d)
+
 The picture above shows that the number of "NGE<0" observations is extremely small(41 observations/1476), compared with the Whole sample(1434 observations/1476). The following picture shows the OLS Regression Results of the "NGE>0" observations, both the t-statistics are significant, in other words, the NGE factor CAN NOT tell whether there would be a close momentum in SS50 ETF market.
+
 ![image](https://github.com/algo23-yifeizhou/Assignment2/assets/125112527/7b747553-a9b3-491c-986b-50a71e63f6b3)
+
 Backtest of intraday momentum under "NGE<0" and "NGE>0" circumstances:
 ##### NGE<0
 ![image](https://github.com/algo23-yifeizhou/Assignment2/assets/125112527/999f4e64-bedf-4f9c-947d-07ce091ed95a)
